@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/daily-hr-referral-cold-email-system-v2/blob/7d9c74e7459ca3d2eecf1566d2a27016e89227a2/asset.png)
 # 🤖 Daily HR Referral Cold Email System v2 🚀
 
 ## Overview
